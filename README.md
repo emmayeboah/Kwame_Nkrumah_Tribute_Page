@@ -1,4 +1,4 @@
-#Kwame Nkrumah Tribute Page
+# Kwame Nkrumah Tribute Page
 
 This form part of my first series of project as a front end developer.
 
